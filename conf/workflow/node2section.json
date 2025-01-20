@@ -1,0 +1,345 @@
+[
+    {
+        "sec_id": 1,
+        "node": "启动会准备",
+        "bug": null,
+        "project": true,
+        "requirement": null
+    },
+    {
+        "sec_id": 1,
+        "node": "新建",
+        "bug": null,
+        "project": true,
+        "requirement": null
+    },
+    {
+        "sec_id": 1,
+        "node": "需求准入分析",
+        "bug": true,
+        "project": true,
+        "requirement": true
+    },
+    {
+        "sec_id": 1,
+        "node": "已立项",
+        "bug": null,
+        "project": true,
+        "requirement": null
+    },
+    {
+        "sec_id": 1,
+        "node": "预立项",
+        "bug": null,
+        "project": true,
+        "requirement": null
+    },
+    {
+        "sec_id": 1,
+        "node": "重新打开",
+        "bug": true,
+        "project": true,
+        "requirement": true
+    },
+    {
+        "sec_id": 2,
+        "node": "SQL审核分配",
+        "bug": true,
+        "project": true,
+        "requirement": true
+    },
+    {
+        "sec_id": 2,
+        "node": "SQL审核执行",
+        "bug": true,
+        "project": true,
+        "requirement": true
+    },
+    {
+        "sec_id": 2,
+        "node": "概要设计",
+        "bug": true,
+        "project": true,
+        "requirement": true
+    },
+    {
+        "sec_id": 2,
+        "node": "开发编码",
+        "bug": true,
+        "project": true,
+        "requirement": true
+    },
+    {
+        "sec_id": 2,
+        "node": "开发暂停",
+        "bug": true,
+        "project": true,
+        "requirement": true
+    },
+    {
+        "sec_id": 2,
+        "node": "联调测试通过",
+        "bug": true,
+        "project": true,
+        "requirement": true
+    },
+    {
+        "sec_id": 2,
+        "node": "提交测试",
+        "bug": true,
+        "project": true,
+        "requirement": true
+    },
+    {
+        "sec_id": 2,
+        "node": "详细设计",
+        "bug": true,
+        "project": true,
+        "requirement": true
+    },
+    {
+        "sec_id": 2,
+        "node": "需求下发",
+        "bug": true,
+        "project": true,
+        "requirement": true
+    },
+    {
+        "sec_id": 2,
+        "node": "研发重新打开",
+        "bug": true,
+        "project": true,
+        "requirement": true
+    },
+    {
+        "sec_id": 3,
+        "node": "财务复核通过",
+        "bug": true,
+        "project": true,
+        "requirement": true
+    },
+    {
+        "sec_id": 3,
+        "node": "测试准备",
+        "bug": true,
+        "project": true,
+        "requirement": true
+    },
+    {
+        "sec_id": 3,
+        "node": "待准生产部署",
+        "bug": true,
+        "project": true,
+        "requirement": true
+    },
+    {
+        "sec_id": 3,
+        "node": "系统测试",
+        "bug": true,
+        "project": null,
+        "requirement": true
+    },
+    {
+        "sec_id": 3,
+        "node": "系统测试第二轮",
+        "bug": null,
+        "project": true,
+        "requirement": null
+    },
+    {
+        "sec_id": 3,
+        "node": "系统测试第一轮",
+        "bug": null,
+        "project": true,
+        "requirement": null
+    },
+    {
+        "sec_id": 3,
+        "node": "用户验收测试",
+        "bug": true,
+        "project": true,
+        "requirement": true
+    },
+    {
+        "sec_id": 3,
+        "node": "准入测试",
+        "bug": true,
+        "project": true,
+        "requirement": true
+    },
+    {
+        "sec_id": 4,
+        "node": "变更评审不通过",
+        "bug": true,
+        "project": true,
+        "requirement": true
+    },
+    {
+        "sec_id": 4,
+        "node": "变更评审通过",
+        "bug": true,
+        "project": true,
+        "requirement": true
+    },
+    {
+        "sec_id": 4,
+        "node": "测试通过",
+        "bug": true,
+        "project": true,
+        "requirement": true
+    },
+    {
+        "sec_id": 4,
+        "node": "监控配置审核",
+        "bug": true,
+        "project": true,
+        "requirement": true
+    },
+    {
+        "sec_id": 4,
+        "node": "监控配置审核不通过",
+        "bug": true,
+        "project": true,
+        "requirement": true
+    },
+    {
+        "sec_id": 4,
+        "node": "监控配置审核通过",
+        "bug": true,
+        "project": true,
+        "requirement": true
+    },
+    {
+        "sec_id": 4,
+        "node": "内部评审不通过",
+        "bug": true,
+        "project": true,
+        "requirement": true
+    },
+    {
+        "sec_id": 4,
+        "node": "内部评审通过",
+        "bug": true,
+        "project": true,
+        "requirement": true
+    },
+    {
+        "sec_id": 4,
+        "node": "提交变更评审",
+        "bug": true,
+        "project": true,
+        "requirement": true
+    },
+    {
+        "sec_id": 4,
+        "node": "提交内部评审",
+        "bug": true,
+        "project": true,
+        "requirement": true
+    },
+    {
+        "sec_id": 4,
+        "node": "准生产部署准备",
+        "bug": true,
+        "project": true,
+        "requirement": true
+    },
+    {
+        "sec_id": 4,
+        "node": "准生产测试",
+        "bug": true,
+        "project": true,
+        "requirement": true
+    },
+    {
+        "sec_id": 5,
+        "node": "变更回退",
+        "bug": true,
+        "project": true,
+        "requirement": true
+    },
+    {
+        "sec_id": 5,
+        "node": "上线后技术验证",
+        "bug": true,
+        "project": true,
+        "requirement": true
+    },
+    {
+        "sec_id": 5,
+        "node": "上线后业务验证",
+        "bug": true,
+        "project": true,
+        "requirement": true
+    },
+    {
+        "sec_id": 6,
+        "node": "测试关闭",
+        "bug": true,
+        "project": true,
+        "requirement": true
+    },
+    {
+        "sec_id": 6,
+        "node": "存量需求关闭",
+        "bug": true,
+        "project": true,
+        "requirement": true
+    },
+    {
+        "sec_id": 6,
+        "node": "需求关闭",
+        "bug": true,
+        "project": true,
+        "requirement": true
+    },
+    {
+        "sec_id": 6,
+        "node": "已关闭",
+        "bug": true,
+        "project": true,
+        "requirement": true
+    },
+    {
+        "sec_id": 6,
+        "node": "异常关闭",
+        "bug": true,
+        "project": null,
+        "requirement": true
+    },
+    {
+        "sec_id": 6,
+        "node": "运维关闭",
+        "bug": true,
+        "project": null,
+        "requirement": true
+    },
+    {
+        "sec_id": 9,
+        "node": "测试退回",
+        "bug": true,
+        "project": true,
+        "requirement": true
+    },
+    {
+        "sec_id": 9,
+        "node": "需求退回",
+        "bug": true,
+        "project": null,
+        "requirement": true
+    },
+    {
+        "sec_id": 9,
+        "node": "需求暂停",
+        "bug": true,
+        "project": true,
+        "requirement": true
+    },
+    {
+        "sec_id": 9,
+        "node": "研发退回",
+        "bug": true,
+        "project": true,
+        "requirement": true
+    }
+]
