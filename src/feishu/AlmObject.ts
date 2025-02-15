@@ -167,6 +167,7 @@ export class AlmObject {
         this.Date_dr = this.toDate(almInfo.values['Date_dr']) //测试实际结束时间
         // this.sjxjzsxx = almInfo.values['sjxjzsxx']	//时间线及注释信息
         this.kfzgzl = almInfo.values['kfzgzl']// 开发总工作量
+        this.oaqbh = almInfo.values['oaqbh']// OA签报号
         this.bbh = almInfo.values['bbh']//版本号
         // this.RQ_VC_CHECKIN_DATE = almInfo.values['RQ_VC_CHECKIN_DATE']	//版本签入日期
     }
