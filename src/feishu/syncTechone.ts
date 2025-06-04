@@ -139,7 +139,7 @@ async function deleteAll2(page_token: string, table_id: string) {
         .catch(e => {
             deleteAll2(page_token, table_id)
         })
-    return total
+    return total;
 }
 
 
@@ -200,5 +200,6 @@ let result;
         }
     })
 })()
+
 
 

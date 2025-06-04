@@ -19,6 +19,7 @@ interface Feishu {
     "实际上线日期": Date,
     "涉及系统": string,
     "变更系统": string,
+    "签报号-TechOne" string,
     "备注": string
 }
 
@@ -62,6 +63,7 @@ interface AlmItem {
     cszxr?: string;               // 测试执行人（可选）
     ywjl?: string;                // 业务经理（可选）
     sjsxsj?: string;              // 实际生效时间（可选）
+    oaqbh?: string;              // OA签报号
 }
 
 
@@ -111,6 +113,7 @@ export class AlmObject {
     tcr?: string;
     tcbm?: string;
     fpr?: string;
+    oaqbh?: string;
     private jhbgrq?: string;
     private ces?: string;
     private Date_dr?: string;
@@ -217,6 +220,7 @@ export class AlmObject {
             "实际上线日期": new Date(this.sjsxsj).valueOf(),
             "涉及系统": this.sjxt.join(','),
             "变更系统": this.bgxt.join(','),
+            "签报号-TechOne": this.oaqbh,
             "备注": ""
         }
     }
